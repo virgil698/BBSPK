@@ -1272,7 +1272,7 @@ const db_forums = [
     {
         title: "NexusMC",
         url: "https://www.nexusmc.cn/",
-        state: "close",
+        state: "up",
         createdAt: "2026/02/28",
         updatedAt: "2026/03/29",
         hasICP: "no",
